@@ -1,45 +1,25 @@
 
 @font-face {
-    font-family: Roboto;
-    src: url('../static/fonts/Roboto/Roboto-Regular.ttf');
-}
-@font-face {
     font-family: Fira_Sans;
-    src: url('../static/fonts/Fira_Sans/FiraSans-Bold.ttf');
+    src: url('FiraSans-Bold.ttf');
 }
 @font-face {
     font-family: Comfortaa;
-    src: url('fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf');
+    src: url('Comfortaa-VariableFont_wght.ttf');
 }
 @font-face {
     font-family: Raj;
-    src: url('fonts/Rajdhani/Rajdhani-Regular.ttf');
-}
-@font-face {
-    font-family: Open_Sans;
-    src: url('fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
-}
-@font-face {
-    font-family: Anton;
-    src: url('../static/fonts/Anton/Anton-Regular.ttf');
-}
-@font-face {
-    font-family: FiraSans;
-    src: url('fonts/Fira_Sans/FiraSans-Regular.ttf');
+    src: url('Rajdhani-Regular.ttf');
 }
 
 @font-face {
-    font-family: Rubik;
-    src: url('fonts/Rubik/Rubik-VariableFont_wght.ttf');
-}
-@font-face {
     font-family: Urbanist;
-    src: url('fonts/Urbanist/Urbanist-VariableFont_wght.ttf');
+    src: url('Urbanist-VariableFont_wght.ttf');
 }
 
 @font-face {
     font-family: Social;
-    src: url('fonts/SocialMediaColor-axAER.ttf');
+    src: url('SocialMediaColor-axAER.ttf');
 }
 *{
     margin: 0;
